@@ -36,7 +36,8 @@ Concepts Used :
 - Exception handling
 - User input and output
 
-GitHub repository link :
+GitHub repository link :https://github.com/manishamanirb/number_guessing_game
+
 Internship  :
 
 Organization: CodeOrbit Tech
